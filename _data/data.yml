@@ -102,10 +102,10 @@ experiences:
       Prepared and served coffee to custoemrs while maintiang a clean working environment. 
 
 certifications: 
-  title: 
-  list:
+  title: Deans List
+  list: 
   - name: 
-    start: 
+    start: December 2022
     end: 
     organization: 
     credentialid: 
@@ -123,28 +123,28 @@ certifications:
     details: |
       
 
-projects:
-  title: 
+projects: 
+  title: Dean's List
   intro: >
     
   assignments:
-  - title: 
+  - title: April 2024
     link: 
     tagline: 
 
-  - title: 
+  - title:  December 2024
     link: 
     tagline: 
 
-  - title: 
+  - title: ANSYS
     link: 
     tagline: 
 
-  - title: 
+  - title: MS Office
     link: 
     tagline: 
 
-  - title: 
+  - title: Volunteering
     link: 
     tagline: 
 
