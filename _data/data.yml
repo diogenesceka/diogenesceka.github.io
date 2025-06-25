@@ -68,12 +68,12 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: B.S. in Mehcanical Engineering
+  - degree: B.S. in Mechanical Engineering
     university: Michigan State University
     time: 2022-2027
     details: |
       I am pursuing a Bachelors degree in Mechancial Engineering with a planned concentration in Engineering Mechanics. 
-      I plan on also completing a minor in business, economcis and computer science
+      I plan on also completing a minor in business, economics and computer science
   - degree: High School degree
     university: Northville High School
     time: 2018 - 2022
@@ -101,7 +101,7 @@ experiences:
     details: |
       Prepared and served coffee to custoemrs while maintiang a clean working environment. 
 
-certifications:
+certifications: 
   title: 
   list:
   - name: 
