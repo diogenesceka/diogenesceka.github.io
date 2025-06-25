@@ -102,10 +102,10 @@ experiences:
       Prepared and served coffee to custoemrs while maintiang a clean working environment. 
 
 certifications: 
-  title: Deans List
+  title: Business Minor, Economics Minor, Computer Science Minor 
   list: 
   - name: 
-    start: December 2022
+    start: 
     end: 
     organization: 
     credentialid: 
@@ -128,23 +128,23 @@ projects:
   intro: >
     
   assignments:
-  - title: April 2024
+  - title: December 2022
     link: 
     tagline: 
 
-  - title:  December 2024
+  - title:  April 2024
     link: 
     tagline: 
 
-  - title: ANSYS
+  - title: December 2024
     link: 
     tagline: 
 
-  - title: MS Office
+  - title: 
     link: 
     tagline: 
 
-  - title: Volunteering
+  - title: 
     link: 
     tagline: 
 
@@ -185,7 +185,7 @@ publications:
     authors: 
     conference: 
 
-recommendations:
+recommendations: 
   title: 
   list:
   - person: 
