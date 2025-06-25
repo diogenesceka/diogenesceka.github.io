@@ -10,13 +10,13 @@ sidebar:
   # Profile information
   name: Diogenes Ceka
   tagline: Mechancial Engineer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: cekadiog@msu.edu
   phone: 248-345-2159
   timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Us Citizen
+  citizenship: US Citizen
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: Diogenes Ceka
   xing: 
@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Young professional seeking Engineering oppurtunities in the corporate world. 
+    Young professional seeking Engineering opportunities in the corporate world. 
 education:
   title: Education
   info:
@@ -74,7 +74,7 @@ education:
     details: |
       I am pursuing a Bachelors degree in Mechancial Engineering with a planned concentration in Engineering Mechanics. 
       I plan on also completing a minor in business, economcis and computer science
-  - degree: High Shcool degree
+  - degree: High School degree
     university: Northville High School
     time: 2018 - 2022
     details: |
